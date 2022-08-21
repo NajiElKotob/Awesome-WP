@@ -4,7 +4,7 @@
 
 ## Tutorials
 ### YouTube 📺
-
+* [WordPress.com](https://www.youtube.com/c/WordPressdotcom)
 
 ## Templates
 * [TemplateMonster](https://www.templatemonster.com/wordpress-themes.php) - templatemonster.com
