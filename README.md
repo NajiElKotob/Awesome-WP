@@ -15,3 +15,7 @@
 
 
 ## Plugins
+
+
+## Troubleshooting
+* [WordPress Recovery Mode Without Access to Admin Email](https://cinchws.com/wordpress-recovery-mode-without-access-to-admin-email/) - cinchws.com
