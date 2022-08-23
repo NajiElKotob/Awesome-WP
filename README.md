@@ -16,7 +16,7 @@
 
 
 ## Plugins
-
+* [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - Yoast SEO makes sure your site meets the highest technical SEO standards. It also gives you the tools to optimize your content for SEO and overall readability.
 
 ## Troubleshooting
 * [WordPress Recovery Mode Without Access to Admin Email](https://cinchws.com/wordpress-recovery-mode-without-access-to-admin-email/) - cinchws.com
