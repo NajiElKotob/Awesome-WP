@@ -9,6 +9,7 @@
 
 ## Templates
 * [TemplateMonster](https://www.templatemonster.com/wordpress-themes.php) - templatemonster.com
+* [ThemeForest](https://themeforest.net/category/wordpress) - themeforest.net
 
 ## Articles
 * [How to Backup Your WordPress Website in 5 Min](https://www.youtube.com/watch?v=bmx39y_8tOs) - Create a Pro Website
