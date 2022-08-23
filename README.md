@@ -5,6 +5,7 @@
 ## Tutorials
 ### YouTube 📺
 * [WordPress.com](https://www.youtube.com/c/WordPressdotcom)
+* [How-To WordPress 101](https://my.godaddy.com/how-to/wordpress-101) - GoDaddy
 
 ## Templates
 * [TemplateMonster](https://www.templatemonster.com/wordpress-themes.php) - templatemonster.com
