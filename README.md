@@ -16,6 +16,7 @@
 
 
 ## Plugins
+* [WooCommerce](https://woocommerce.com/) - woocommerce.com
 * [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - Yoast SEO makes sure your site meets the highest technical SEO standards. It also gives you the tools to optimize your content for SEO and overall readability.
 
 ## Troubleshooting
