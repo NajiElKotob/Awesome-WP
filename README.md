@@ -5,6 +5,7 @@
 ## Tutorials
 ### YouTube 📺
 * [WordPress.com](https://www.youtube.com/c/WordPressdotcom)
+* [WordPress - How To Videos (2022)](https://www.youtube.com/playlist?list=PL5-AGUVYC4o2A2gaf6BGeMBkhhsqQ64FL) - Create WP Site
 * [How-To WordPress 101](https://my.godaddy.com/how-to/wordpress-101) - GoDaddy
 
 ## Templates
