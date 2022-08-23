@@ -21,3 +21,4 @@
 
 ## Troubleshooting
 * [WordPress Recovery Mode Without Access to Admin Email](https://cinchws.com/wordpress-recovery-mode-without-access-to-admin-email/) - cinchws.com
+* [How to Reset a WordPress Site With or Without a Plugin](https://blog.hubspot.com/website/reset-wordpress) - hubspot.com
