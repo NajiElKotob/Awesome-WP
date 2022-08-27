@@ -13,6 +13,9 @@
 * [How to Backup Your WordPress Website in 5 Min](https://www.youtube.com/watch?v=bmx39y_8tOs) - Create a Pro Website
 * [How to Set Up WordPress Email Notifications with SendGrid + WP Mail SMTP](https://wpforms.com/fix-wordpress-email-notifications-with-sendgrid/) - wpforms.com
 
+### Learn
+* [Learn WordPress](https://learn.wordpress.org/) - wordpress.org
+
 
 ----- 
 
