@@ -8,6 +8,12 @@
 * [WordPress - How To Videos (2022)](https://www.youtube.com/playlist?list=PL5-AGUVYC4o2A2gaf6BGeMBkhhsqQ64FL) - Create WP Site
 * [How-To WordPress 101](https://my.godaddy.com/how-to/wordpress-101) - GoDaddy
 
+
+### Articles
+* [How to Backup Your WordPress Website in 5 Min](https://www.youtube.com/watch?v=bmx39y_8tOs) - Create a Pro Website
+* [How to Set Up WordPress Email Notifications with SendGrid + WP Mail SMTP](https://wpforms.com/fix-wordpress-email-notifications-with-sendgrid/) - wpforms.com
+
+
 ----- 
 
 ## Themes and Templates
@@ -15,12 +21,6 @@
 * [ThemeForest](https://themeforest.net/category/wordpress) - themeforest.net
 * [ThemeGrill](https://themegrill.com/wordpress-themes/) - themegrill.com
 * [MH Themes](https://mhthemes.com/) - mhthemes.com
-
------ 
-
-## Articles
-* [How to Backup Your WordPress Website in 5 Min](https://www.youtube.com/watch?v=bmx39y_8tOs) - Create a Pro Website
-* [How to Set Up WordPress Email Notifications with SendGrid + WP Mail SMTP](https://wpforms.com/fix-wordpress-email-notifications-with-sendgrid/) - wpforms.com
 
 ----- 
 
