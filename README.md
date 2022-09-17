@@ -44,6 +44,7 @@
 * [Sucuri](https://sucuri.net/) - We Clean And Protect All Your Websites To Prevent Future Attacks. 
 * [UpDraftPlus](https://updraftplus.com/) - The world’s most trusted WordPress backup, restore and clone plugin
 * [MonsterInsights](https://www.monsterinsights.com/) - MonsterInsights is the best Google Analytics plugin for WordPress.
+* [Polylang](https://polylang.pro/) - polylang.pro | Translate your content
 
 ----- 
 
