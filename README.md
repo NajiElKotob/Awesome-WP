@@ -50,6 +50,8 @@
 * [MonsterInsights](https://www.monsterinsights.com/) - MonsterInsights is the best Google Analytics plugin for WordPress.
 * [Polylang](https://polylang.pro/) - polylang.pro | Translate your content
 * [SVG Support](https://wordpress.org/plugins/svg-support/) - Safely upload SVG files to your media library and use them like any other image.
+* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - Cache, Clean, Compress
+
 
 ----- 
 
