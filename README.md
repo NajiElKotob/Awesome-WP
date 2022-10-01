@@ -51,7 +51,7 @@
 * [Polylang](https://polylang.pro/) - polylang.pro | Translate your content
 * [SVG Support](https://wordpress.org/plugins/svg-support/) - Safely upload SVG files to your media library and use them like any other image.
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - Cache, Clean, Compress
-
+* [WP-Sweep](https://wordpress.org/plugins/wp-sweep/) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. 
 
 ----- 
 
