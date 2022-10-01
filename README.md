@@ -37,6 +37,8 @@
 
 ## WordPress development tool 
 * [Local WP](https://localwp.com/) - localwp.com | The #1 local WordPress development tool 
+* [XAMPP](https://www.apachefriends.org/) - apachefriends.org | XAMPP is the most popular PHP development environment
+
 
 ----- 
 
