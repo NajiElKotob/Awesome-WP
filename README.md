@@ -35,6 +35,8 @@
    * [10 Best Free & Pro Elementor Template Resources](https://elementor.com/blog/10-best-resources-for-elementor-templates/)
 * [Beaver Builder](https://www.wpbeaverbuilder.com/) - wpbeaverbuilder.com
 
+## WordPress development tool 
+* [Local WP](https://localwp.com/) - localwp.com | The #1 local WordPress development tool 
 
 ----- 
 
@@ -45,6 +47,7 @@
 * [UpDraftPlus](https://updraftplus.com/) - The world’s most trusted WordPress backup, restore and clone plugin
 * [MonsterInsights](https://www.monsterinsights.com/) - MonsterInsights is the best Google Analytics plugin for WordPress.
 * [Polylang](https://polylang.pro/) - polylang.pro | Translate your content
+* []() 
 
 ----- 
 
