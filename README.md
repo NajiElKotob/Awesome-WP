@@ -29,6 +29,7 @@
 ### Elementor
 * [Elementor Library Kit](https://elementor.com/library/)
 * [TemplateMonster Elementor Kits](https://www.templatemonster.com/elementor-templates.php)
+* [ThemeForest Elementor Kits](https://themeforest.net/elementor)
 
 ## Themes
 * [Astra](https://wpastra.com/) - wpastra.com
