@@ -28,6 +28,7 @@
 * [38 Best Free WordPress Themes 2022](https://athemes.com/collections/free-wordpress-themes/) - athemes.com
 ### Elementor
 * [Elementor Library Kit](https://elementor.com/library/)
+* [TemplateMonster Elementor Kits](https://www.templatemonster.com/elementor-templates.php)
 
 ## Themes
 * [Astra](https://wpastra.com/) - wpastra.com
